@@ -1,9 +1,9 @@
-const CompaninonsLibrary = () => {
+const page = () => {
   return (
     <div>
-      
+      Companions Library
     </div>
   )
 }
 
-export default CompaninonsLibrary
+export default page
